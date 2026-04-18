@@ -3,7 +3,7 @@
 # Hey, I'm Nafees 👋
 
 **Software Engineer** · Backend & Infrastructure · Security · Agentic AI  
-*CS @ LUMS '26 · Building things that don't break under pressure*
+*Building things that don't break under pressure*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-nafees-286331254)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nmalikuni@gmail.com)
@@ -16,7 +16,7 @@
 
 I'm a backend-focused software engineer who's most comfortable at the intersection of **distributed systems**, **infrastructure**, and **security**. I've shipped production systems across agentic AI pipelines, self-hosted Linux deployments, GIS applications, and fault-tolerant databases — and I care deeply about the stuff that holds it all together: reliability, threat modelling, and clean architecture.
 
-- 🎓 Final-year CS student at **LUMS** (graduating May 2026)
+- 🎓 B.S. CS @ LUMS, Batch '26
 - 🔭 Currently building **ContinuumAI** — an autonomous agentic data scientist using MCP
 - 🌍 Previously contracted with **National University of Singapore** on a GIS flood research platform
 - 🛡️ Interested in **engineering production systems** end-to-end — from architecture and reliability to **security hardening**
