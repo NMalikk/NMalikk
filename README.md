@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I'm a backend-focused software engineer who's most comfortable at the intersection of **distributed systems**, **infrastructure**, and **security**. I've shipped production systems across agentic AI pipelines, self-hosted Linux deployments, GIS applications, and fault-tolerant databases — and I care deeply about the stuff that holds it all together: reliability, threat modelling, and clean architecture.
+I'm a backend-focused software engineer who's most comfortable at the intersection of **distributed systems**, **infrastructure**, and **security**. I've shipped production systems across self-hosted Linux deployments and GIS applications — and I care deeply about the stuff that holds it all together: reliability, threat modelling, and clean architecture.
 
 - 🎓 B.S. CS @ LUMS, Batch '26
 - 🔭 Currently building **ContinuumAI** — an autonomous agentic data scientist using MCP
